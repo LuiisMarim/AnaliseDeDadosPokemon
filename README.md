@@ -1,4 +1,4 @@
-# Análise da 1° geração de pokémons.⚡
+# Análise de dados da 1° geração de pokémons.⚡
 
 Utilizando o jupyter notebook e a base de dados [`Kaggle`](https://www.kaggle.com/datasets/mlomuscio/pokemon/data)
 
