@@ -6,7 +6,7 @@ Utilizando o jupyter notebook e a base de dados [`Kaggle`](https://www.kaggle.co
 
 - O projeto consiste em uma aplicação em cinco regressões lineares mudando a variável dependente (y) e a variável independente(x). Para cada regressão foi apresentado o gráfico de dispersão, a reta ajustada, o coeficiente de correlação de Pearson e o coeficiente de determinação(R2). 🔎
 
-- Tmabém uma regressão linear múltipla utilizando no mínimo quatro variáveis dependentes (x). Apresentar os resultados para o coeficiente de determinação(R2) usando o `OLS Summary` e o `scikit learn`. 📈
+- Também uma regressão linear múltipla utilizando quatro variáveis dependentes (x). Apresentando os resultados para o coeficiente de determinação(R2) usando o `OLS Summary` e o `scikit learn`. 📈
 
 ## Tecnologias utilizadas. ✔️
 
